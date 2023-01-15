@@ -8,4 +8,4 @@ Hi y'all! My name is Christine (she/her) and I'm a second year MURP concentratin
 I'm new to both coding and GIS, and in this course I hope to gain a foundational understanding of coding, spatial analysis, and data visualization. I'm also hoping to learn more about data analysis and ways to use spatial data science to advance racial justice in urban planning.
 
 ## Project Ideas
-My capstone project is about limited-equity housing coops & CLTs, so I'm interested in doing a project related to those topics, gentification & displacement in LA, and/or racial segregation and inequities. 
+My capstone project is about limited-equity housing coops & CLTs, so I'm interested in doing a project related to those topics, gentrification & displacement in LA, and/or racial segregation and inequities. 
